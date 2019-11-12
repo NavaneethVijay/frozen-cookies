@@ -1,4 +1,4 @@
-Simple Browser cookie helper Javascript API for handling cookies
+Simple Javascript API for handling browser cookies
 
 ## Installation
 
