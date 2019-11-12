@@ -10,4 +10,4 @@ JavaScript Cookie supports [npm](https://www.npmjs.com/package/frozen-cookies) u
 npm i frozen-cookies
 ```
 
-_Note: README In Progres_
+_Note: README In Progress_
