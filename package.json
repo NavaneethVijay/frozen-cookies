@@ -1,0 +1,56 @@
+{
+  "_from": "frozen-cookies",
+  "_id": "frozen-cookies@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Qh1rM/Ov73B7sbEWSMnUG/0IAgxoQ8mgWsEltRyW2l1tsi6X2bGNqxxiF5W7D79SGhkUb6ZI7MZDSuLlcdrzlg==",
+  "_location": "/frozen-cookies",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "frozen-cookies",
+    "name": "frozen-cookies",
+    "escapedName": "frozen-cookies",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/frozen-cookies/-/frozen-cookies-1.0.1.tgz",
+  "_shasum": "05755ae40e8ed503ea861406cba42d102859a969",
+  "_spec": "frozen-cookies",
+  "_where": "/home/codilar/frozen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavaneethVijay/frozen-cookies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NavaneethVijay/frozen-cookies/issues"
+  },
+  "homepage": "https://github.com/NavaneethVijay/frozen-cookies#readme",
+  "keywords": [
+    "npm",
+    "cookie",
+    "node"
+  ],
+  "author": {
+    "name": "Navaneeth Vijay"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple Browser cookie helper js",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "frozen-cookies",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
